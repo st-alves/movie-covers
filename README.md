@@ -17,3 +17,4 @@ Only "default" is available for ```${type}``` for now.
 
 ### Decades
 [2000 (2001-2010)](https://github.com/st-alves/movie-covers-2000)
+[1990 (1991-2000)](https://github.com/st-alves/movie-covers-1990)
