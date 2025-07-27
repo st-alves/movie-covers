@@ -2,7 +2,7 @@
 Movie covers project.
 
 ### ID
-Use the IMDb movie ID without the initial "tt".
+Use the IMDb movie ID without the initial "tt". For greater compability in future, remove left zeros (0121765 -> 121765).
 
 ### How to use links
 Use this URL pattern for default covers (you'll have to implement the automation yourself):
@@ -11,7 +11,7 @@ Use this URL pattern for default covers (you'll have to implement the automation
 ```
 
 Example: 
-<br>```https://raw.githubusercontent.com/st-alves/movie-covers-2000/refs/heads/main/default/0121765.jpg```
+<br>```https://raw.githubusercontent.com/st-alves/movie-covers-2000/refs/heads/main/default/121765.jpg```
 
 Only "default" is available for ```${type}``` for now.
 
