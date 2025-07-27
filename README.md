@@ -11,9 +11,9 @@ Use this URL pattern for default covers (you'll have to implement the automation
 ```
 
 Example: 
-<br>```https://raw.githubusercontent.com/st-alves/movie-covers-2000/refs/heads/main/default/121765.jpg```
+<br>```https://raw.githubusercontent.com/st-alves/movie-covers-2000/refs/heads/main/letterboxd/121765.jpg```
 
-Only "default" is available for ```${type}``` for now.
+Only "letterboxd" is available for ```${type}``` for now.
 
 ### Decades
 [2000 (2001-2010)](https://github.com/st-alves/movie-covers-2000)
