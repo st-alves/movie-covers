@@ -13,7 +13,11 @@ Use this URL pattern for default covers (you'll have to implement the automation
 Example: 
 <br>```https://raw.githubusercontent.com/st-alves/movie-covers-2000/refs/heads/main/letterboxd/121765.jpg```
 
+### Type Images
 Only "letterboxd" is available for ```${type}``` for now.
+<br> Use lowercase.
+
+Letterboxd: 350 x 525 px
 
 ### Decades
 [2000 (2001-2010)](https://github.com/st-alves/movie-covers-2000)
